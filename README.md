@@ -2,8 +2,9 @@
     👋 Hi there
 </h1>
 
-
-I am Rodrigo, a self-taught developer. 
+<p align="center">
+    I am Rodrigo, a self-taught developer. 
+</p>
 
 [Check my website](https://rodrigoo-r.github.io/about-me/)
 

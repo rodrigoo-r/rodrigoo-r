@@ -13,6 +13,10 @@
 <p align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=java,maven,gradle,go,c,cpp,linux,git" />
+    </a>
+</p>
+<p align="center">
+    <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=bash,nodejs,deno,rust,mysql,css,js,ts,html,react.vue" />
     </a>
 </p>

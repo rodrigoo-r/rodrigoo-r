@@ -6,9 +6,11 @@ I am Rodrigo, a self-taught developer, now in its way to become a professional o
 
 ## 📚 My skills
 
-- **Web development**: HTML, CSS, JS, TS, Pug, Vue, Next.js, React & Electron.
-- **Backend/General-purpose development:** Go, Java, Node.js & Deno.
-- **Systems programming:** Rust, C++ & C.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,maven,gradle,go,c,cpp,linux,git,bash,nodejs,deno,rust,mysql,css,js,ts,html,react.vue" />
+  </a>
+</p>
 
 ## 📦 Check my latest projects
 

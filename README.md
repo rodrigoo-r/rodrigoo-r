@@ -11,9 +11,23 @@
 </h2>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,maven,gradle,go,c,cpp,linux,git,bash,nodejs,deno,rust,mysql,css,js,ts,html,react.vue" />
-  </a>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=java,maven,gradle,go,c,cpp,linux,git,bash,nodejs,deno,rust" />
+        <img src="https://skillicons.dev/icons?i=mysql,css,js,ts,html,react.vue" />
+    </a>
+</p>
+
+<h2 align="center">
+    ✨ Stats
+</h2>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=rodrigoo-r&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigoo-r&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigoo-r&theme=transparent&count_private=true&border_radius=10&locale=en" />
 </p>
 
 <h2 align="center">

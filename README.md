@@ -1,6 +1,9 @@
-# ✌ Hello!
+<h1 align="center">
+    👋 Hi there
+</h1>
 
-I am Rodrigo, a self-taught developer, now in its way to become a professional one. 
+
+I am Rodrigo, a self-taught developer. 
 
 [Check my website](https://rodrigoo-r.github.io/about-me/)
 

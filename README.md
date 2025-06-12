@@ -31,5 +31,4 @@
 </h2>
 
 - [The Fluent Programming Language](https://github.com/fluent-lang/Fluent)
-- [The ArgIt Project](https://github.com/rodri-r-z/ArgIt)
 - [Check my website](https://rodrigoo-r.github.io/about-me/)

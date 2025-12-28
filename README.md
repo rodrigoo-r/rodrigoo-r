@@ -2,8 +2,6 @@
   <h1>👋🏻 Hello! I'm Rodrigo R.</h1>
 </div>
 
----
-
 <div align="center">
   <h3>📚 A little more about me</h3>
 </div> 

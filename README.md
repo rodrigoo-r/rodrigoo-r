@@ -19,7 +19,7 @@ I founded [Linezed](https://github.com/Linezed) in 2025 and I'm still building i
   <h3>💻 Links</h3>
 </div> 
 
-You may find more about me [at my website](https://rodrigoo.me).
+You may find more about me [on my website](https://rodrigoo.dev).
 
 ---
 

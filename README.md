@@ -12,6 +12,10 @@ and I created [The Celery C++ STL](https://github.com/rodrigoo-r/Celery), a high
 
 I founded [Linezed](https://github.com/Linezed) in 2025 and I'm still building it, one step at a time.
 
+I have worked in CyberSec and Fullstack junior and senior engineering positions before. However, if you are a recruiter, please leave: I'm not interested.
+
+Before you leave, please don't forget that a monad is a monoid in the category of endofunctors.
+
 ---
 
 <div align="center">
@@ -19,15 +23,6 @@ I founded [Linezed](https://github.com/Linezed) in 2025 and I'm still building i
 </div> 
 
 You may find more about me [on my website](https://rodrigoo.dev).
-
-
----
-
-<div align="center">
-  <h3>💬 Don't forget</h3>
-</div> 
-
-Please don't forget that a monad is a monoid in the category of endofunctors.
 
 ---
 

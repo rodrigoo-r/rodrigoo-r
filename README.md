@@ -20,6 +20,15 @@ I founded [Linezed](https://github.com/Linezed) in 2025 and I'm still building i
 
 You may find more about me [on my website](https://rodrigoo.dev).
 
+
+---
+
+<div align="center">
+  <h3>💬 Don't forget</h3>
+</div> 
+
+Please don't forget that a monad is a monoid in the category of endofunctors.
+
 ---
 
 <div align="center">

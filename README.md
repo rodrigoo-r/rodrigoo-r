@@ -8,8 +8,7 @@
 
 I'm a Sr. Software Engineer. I started coding in 2014, and have touched tons of systems ever since; 
 and I created [The Celery C++ STL](https://github.com/rodrigoo-r/Celery), a high-performance STL, and
-[The Zelix Programming Language](https://github.com/zelix-lang/zelix), a mission-critial and formally
-verified high-performance programming language, alongside with other projects.
+[The Zelix Programming Language](https://github.com/zelix-lang/zelix), a mission-critial, high-performance programming language that statically proves memory safety without a GC and without a Rust-style borrow checker, alongside with other projects.
 
 I founded [Linezed](https://github.com/Linezed) in 2025 and I'm still building it, one step at a time.
 
